@@ -1,0 +1,17 @@
+Board
+* A1 to C3
+
+Game Flow:
+* Start Game
+* Loop
+* read command "A3"
+* valid command?
+  if not, print error, repeat Loop
+* free field?
+  if not, print error, repeat Loop
+* set field
+* check for winner
+  if yes, print winner, stop look
+* turn
+* print board
+* repeat loop
